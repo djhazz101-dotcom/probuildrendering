@@ -1,0 +1,41 @@
+backend:
+  name: git-gateway
+  branch: redesign
+
+media_folder: "assets/img/uploads"
+public_folder: "/assets/img/uploads"
+
+site_url: "https://probuildrendering.com"
+
+collections:
+  - name: "site"
+    label: "Site Settings"
+    files:
+      - file: "_content/site.json"
+        label: "Global Settings"
+        name: "global"
+        fields:
+          - { label: "Brand Name", name: "brandName", widget: "string", default: "Probuild Rendering" }
+          - { label: "Legal Name", name: "legalName", widget: "string", default: "Probuild Rendering PTY LTD" }
+          - { label: "Phone", name: "phone", widget: "string", default: "0462 444 111" }
+          - { label: "Email", name: "email", widget: "string", default: "info@probuildrendering.com" }
+          - { label: "WhatsApp Link", name: "whatsapp", widget: "string", default: "https://wa.me/" }
+
+  - name: "services"
+    label: "Services"
+    folder: "_content/services"
+    create: true
+    slug: "{{slug}}"
+    extension: "json"
+    format: "json"
+    fields:
+      - { label: "Service Title", name: "title", widget: "string" }
+      - { label: "Slug (do not change once live)", name: "slug", widget: "string" }
+      - { label: "Short Description", name: "shortDescription", widget: "string" }
+      - { label: "Main Image (Services page)", name: "mainImage", widget: "image" }
+      - label: "Gallery Images (Service page)"
+        name: "galleryImages"
+        widget: "list"
+        allow_add: true
+        field: { label: "Image", name: "image", widget: "image" }
+      - { label: "Order (lower shows first)", name: "order", widget: "number", value_type: "int", default: 1 }
