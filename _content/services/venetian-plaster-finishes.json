@@ -1,8 +1,20 @@
 {
-  "title": "Venetian Plaster Finishes",
-  "slug": "venetian-plaster-finishes",
-  "shortDescription": "Premium decorative plaster finishes for feature walls and high-end interiors.",
-  "mainImage": "",
-  "galleryImages": [],
-  "order": 2
+  "title": "Venetian Plaster",
+  "slug": "venetian-plaster",
+  "shortDescription": "Premium Venetian plaster finishes for a polished, high-end decorative look.",
+  "mainImage": "venetian-plaster-hero.jpg",
+  "galleryImages": [
+    "venetian-plaster-1.jpg",
+    "venetian-plaster-2.jpg",
+    "venetian-plaster-3.jpg",
+    "venetian-plaster-4.jpg",
+    "venetian-plaster-5.jpg",
+    "venetian-plaster-6.jpg",
+    "venetian-plaster-7.jpg",
+    "venetian-plaster-8.jpg",
+    "venetian-plaster-9.jpg",
+    "venetian-plaster-10.jpg",
+    "venetian-plaster-11.jpg"
+  ],
+  "order": 7
 }
