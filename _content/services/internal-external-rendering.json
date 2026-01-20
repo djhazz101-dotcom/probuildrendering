@@ -1,8 +1,18 @@
 {
   "title": "Internal & External Rendering",
   "slug": "internal-external-rendering",
-  "shortDescription": "High-quality internal and external rendering for smooth, strong, long-lasting finishes.",
-  "mainImage": "",
-  "galleryImages": [],
-  "order": 4
+  "shortDescription": "High-quality internal and external rendering for smooth, durable wall finishes.",
+  "mainImage": "internal-external-rendering-hero.jpg",
+  "galleryImages": [
+    "internal-external-rendering-1.jpg",
+    "internal-external-rendering-2.jpg",
+    "internal-external-rendering-3.jpg",
+    "internal-external-rendering-4.jpg",
+    "internal-external-rendering-5.jpg",
+    "internal-external-rendering-6.jpg",
+    "internal-external-rendering-7.jpg",
+    "internal-external-rendering-8.jpg",
+    "internal-external-rendering-9.jpg"
+  ],
+  "order": 5
 }
