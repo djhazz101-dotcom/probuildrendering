@@ -1,8 +1,11 @@
 {
-  "title": "EPS Foam (Polystyrene) Installation",
+  "title": "EPS Foam Installation",
   "slug": "eps-foam-installation",
-  "shortDescription": "EPS foam installation for insulation, lightweight wall systems, and rendering-ready surfaces.",
-  "mainImage": "",
-  "galleryImages": [],
-  "order": 5
+  "shortDescription": "Lightweight EPS foam installation for architectural detailing and insulation.",
+  "mainImage": "eps-foam-installation-hero.jpg",
+  "galleryImages": [
+    "eps-foam-installation-1.jpg",
+    "eps-foam-installation-2.jpg"
+  ],
+  "order": 3
 }
