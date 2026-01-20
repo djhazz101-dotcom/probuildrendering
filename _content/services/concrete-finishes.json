@@ -1,8 +1,12 @@
 {
   "title": "Concrete Finishes",
   "slug": "concrete-finishes",
-  "shortDescription": "Modern concrete-look finishes and textures for residential and commercial spaces.",
-  "mainImage": "concrete-finish-1.jpg",
-  "galleryImages": [],
-  "order": 1
+  "shortDescription": "Modern concrete-look finishes for residential and commercial spaces.",
+  "mainImage": "concrete-finishes-hero.jpg",
+  "galleryImages": [
+    "concrete-finishes-1.jpg",
+    "concrete-finishes-2.jpg",
+    "concrete-finishes-3.jpg"
+  ],
+  "order": 2
 }
