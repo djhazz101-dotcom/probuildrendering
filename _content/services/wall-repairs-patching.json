@@ -1,8 +1,21 @@
 {
-  "title": "Wall Repairs & Patching",
-  "slug": "wall-repairs-patching",
-  "shortDescription": "Wall repairs and patching to fix damage, cracks, and prepare surfaces for rendering.",
-  "mainImage": "",
-  "galleryImages": [],
+  "title": "Repair & Patching",
+  "slug": "repair-patching",
+  "shortDescription": "Wall repair and patching services to restore damaged surfaces before painting or finishing.",
+  "mainImage": "repair-patching-hero.jpg",
+  "galleryImages": [
+    "repair-patching-1.jpg",
+    "repair-patching-2.jpg",
+    "repair-patching-3.jpg",
+    "repair-patching-4.jpg",
+    "repair-patching-5.jpg",
+    "repair-patching-6.jpg",
+    "repair-patching-7.jpg",
+    "repair-patching-8.jpg",
+    "repair-patching-9.jpg",
+    "repair-patching-10.jpg",
+    "repair-patching-11.jpg",
+    "repair-patching-12.jpg"
+  ],
   "order": 8
 }
