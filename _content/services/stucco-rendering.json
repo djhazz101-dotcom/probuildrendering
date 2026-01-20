@@ -1,8 +1,14 @@
 {
   "title": "Stucco Rendering",
   "slug": "stucco-rendering",
-  "shortDescription": "Professional stucco rendering for strong, long-lasting exterior walls.",
-  "mainImage": "",
-  "galleryImages": [],
-  "order": 3
+  "shortDescription": "Classic and modern stucco rendering finishes for exterior walls and facades.",
+  "mainImage": "stucco-rendering-hero.jpg",
+  "galleryImages": [
+    "stucco-rendering-1.jpg",
+    "stucco-rendering-2.jpg",
+    "stucco-rendering-3.jpg",
+    "stucco-rendering-4.jpg",
+    "stucco-rendering-5.jpg"
+  ],
+  "order": 6
 }
