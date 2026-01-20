@@ -1,8 +1,18 @@
 {
   "title": "Hebel Panel Installation",
-  "slug": "hebel-panel-installation",
-  "shortDescription": "Hebel panel installation for lightweight wall systems suitable for modern residential and commercial builds.",
-  "mainImage": "",
-  "galleryImages": [],
-  "order": 7
+  "slug": "hebel-installation",
+  "shortDescription": "Professional Hebel panel installation for durable, lightweight wall systems.",
+  "mainImage": "hebel-installation-hero.jpg",
+  "galleryImages": [
+    "hebel-installation-1.jpg",
+    "hebel-installation-2.jpg",
+    "hebel-installation-3.jpg",
+    "hebel-installation-4.jpg",
+    "hebel-installation-5.jpg",
+    "hebel-installation-6.jpg",
+    "hebel-installation-7.jpg",
+    "hebel-installation-8.jpg",
+    "hebel-installation-9.jpg"
+  ],
+  "order": 4
 }
